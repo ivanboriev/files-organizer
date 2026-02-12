@@ -1,0 +1,15 @@
+# Игнорируем бинарные файлы
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Игнорируем тестовые файлы
+*.test
+
+# Игнорируем файлы IDE
+.idea/
+.vscode/
+generated_files
+organizer.lod
