@@ -101,7 +101,7 @@ func (fo *FileOrganizer) moveFile(sourcePath, targetDir string) error {
 
 	hasTargetDir := dirExists(targetDir)
 
-	if hasTargetDir == false {
+	if !hasTargetDir {
 
 		err := os.MkdirAll(targetDir, 0750)
 
