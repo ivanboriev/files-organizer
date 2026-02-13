@@ -99,6 +99,8 @@ func generateNewFileName(path string) string {
 
 func (fo *FileOrganizer) moveFile(sourcePath, targetDir string) error {
 
+	fmt.Println(targetDir)
+
 	hasTargetDir := dirExists(targetDir)
 
 	if hasTargetDir == false {
@@ -169,7 +171,7 @@ func (fo *FileOrganizer) showStats() {
 }
 
 func (fo *FileOrganizer) Organize() error {
-	err := filepath.Walk(".", func(path string, pathinfo fs.FileInfo, er error) error {
+	err := filepath.Walk(fo.sourceDir, func(path string, pathinfo fs.FileInfo, er error) error {
 		if er != nil {
 			fo.logError(fmt.Sprintf("Ошибка доступа к %s: %v\n", path, er))
 			return nil
@@ -178,6 +180,7 @@ func (fo *FileOrganizer) Organize() error {
 		dir, exists := DefaultRules[filepath.Ext(path)]
 
 		if exists {
+			dir = filepath.Join(fo.sourceDir, dir)
 			stats, exists := fo.statistics[filepath.Ext(path)]
 
 			if !exists {
