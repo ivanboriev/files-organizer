@@ -141,7 +141,7 @@ func (fo *FileOrganizer) moveFile(sourcePath, targetDir string) error {
 	fileInfo, e := os.Stat(newPath)
 
 	if e != nil {
-		fo.logError("Ошибка получение информации о файле: " + newPath)
+		fo.logError("Ошибка получения информации о файле: " + newPath)
 		return e
 
 	}
