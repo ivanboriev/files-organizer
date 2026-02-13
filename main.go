@@ -164,10 +164,15 @@ func bytesToMegabytes(bytes int64) float64 {
 func (fo *FileOrganizer) showStats() {
 	totalFiles := 0
 	var totalSize int64 = 0
+	byExtensionMessages := []string{}
 
-	for _, stats := range fo.statistics {
+	for ext, stats := range fo.statistics {
 		totalFiles += stats.Count
 		totalSize += stats.TotalSize
+
+		byExtensionMessages = append(byExtensionMessages, fmt.Sprintf("%s:\n", DefaultRules[ext]))
+		byExtensionMessages = append(byExtensionMessages, fmt.Sprintf("	- Количество файлов: %d\n", stats.Count))
+		byExtensionMessages = append(byExtensionMessages, fmt.Sprintf("	- Общий размер: %.1f MB\n", bytesToMegabytes(stats.TotalSize)))
 	}
 
 	fmt.Println("=== Отчет о перемещении файлов ===")
@@ -177,14 +182,8 @@ func (fo *FileOrganizer) showStats() {
 	fmt.Println()
 	fmt.Println("Статистика по категориям:")
 
-	for ext, stats := range fo.statistics {
-
-		fmt.Printf("%s:\n", DefaultRules[ext])
-		fmt.Printf("	- Количество файлов: %d\n", stats.Count)
-		fmt.Printf("	- Общий размер: %.1f MB\n", bytesToMegabytes(stats.TotalSize))
-
-		totalFiles += stats.Count
-		totalSize += stats.TotalSize
+	for _, message := range byExtensionMessages {
+		fmt.Print(message)
 	}
 }
 
