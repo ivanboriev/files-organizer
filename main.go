@@ -133,6 +133,24 @@ func (fo *FileOrganizer) moveFile(sourcePath, targetDir string) error {
 
 	}
 
+	stats, exists := fo.statistics[filepath.Ext(newPath)]
+
+	if !exists {
+		stats = &FileStats{}
+		fo.statistics[filepath.Ext(newPath)] = stats
+	}
+
+	fileInfo, e := os.Stat(newPath)
+
+	if e != nil {
+		fo.logError("Ошибка получение информации о файле: " + newPath)
+		return e
+
+	}
+
+	stats.Count += 1
+	stats.TotalSize += fileInfo.Size()
+
 	fo.logSuccess("Результат: " + newPath)
 
 	return nil
@@ -181,23 +199,6 @@ func (fo *FileOrganizer) Organize() error {
 
 		if exists {
 			dir = filepath.Join(fo.sourceDir, dir)
-			stats, exists := fo.statistics[filepath.Ext(path)]
-
-			if !exists {
-				stats = &FileStats{} // Создаём новый объект FileStats
-				fo.statistics[filepath.Ext(path)] = stats
-			}
-
-			fileInfo, e := os.Stat(path)
-
-			if e != nil {
-				fo.logError(e.Error())
-				return e
-
-			}
-
-			stats.Count += 1
-			stats.TotalSize += fileInfo.Size()
 
 			err := fo.moveFile(path, dir)
 
