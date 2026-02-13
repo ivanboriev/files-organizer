@@ -246,10 +246,10 @@ func main() {
 
 	fmt.Printf("✅ Директория найдена: %s\n\n", dirPath)
 
-	file, error := os.OpenFile("organizer.log", os.O_CREATE|os.O_RDWR|os.O_APPEND, 0666)
+	file, er := os.OpenFile("organizer.log", os.O_CREATE|os.O_RDWR|os.O_APPEND, 0666)
 
-	if error != nil {
-		log.Fatal(error)
+	if er != nil {
+		log.Fatal(er)
 	}
 
 	fo := NewFileOrganizer(dirPath, file)
@@ -257,7 +257,7 @@ func main() {
 	err := fo.Organize()
 
 	if err != nil {
-		log.Fatal(error)
+		log.Fatal(err)
 	}
 
 }
