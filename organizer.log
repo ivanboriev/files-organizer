@@ -1891,3 +1891,9 @@
 2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/wN8BAdPvr.avi
 2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
 2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/wN8BAdPvr.avi
+2026/02/13 21:09:33 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/assets/test.png
+2026/02/13 21:09:33 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 21:09:33 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/test.png
+2026/02/13 21:09:39 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/Images/test.png
+2026/02/13 21:09:39 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 21:09:39 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/test_20260213_210939.png

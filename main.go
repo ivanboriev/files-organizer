@@ -238,12 +238,23 @@ func main() {
 		return
 	}
 
-	dirPath := scanner.Text()
+	dirPath := strings.TrimSpace(scanner.Text())
 
-	if _, err := os.Stat(dirPath); os.IsNotExist(err) {
-		dirPath, err = os.Getwd()
+	if len(dirPath) == 0 {
+		dir, err := os.Getwd()
+
 		if err != nil {
 			log.Fatal(err)
+		}
+
+		dirPath = dir
+
+	} else {
+		if _, err := os.Stat(dirPath); os.IsNotExist(err) {
+			if err != nil {
+				fmt.Printf("Директория %s не найдена!", dirPath)
+				os.Exit(0)
+			}
 		}
 	}
 
