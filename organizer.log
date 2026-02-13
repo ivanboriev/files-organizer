@@ -1288,3 +1288,606 @@
 2026/02/13 14:44:12 [SUCCESS] Исходный файл: generated_files/ykodlu41OCowm2.docx
 2026/02/13 14:44:12 [SUCCESS] Целевая директория: generated_files/Documents
 2026/02/13 14:44:12 [SUCCESS] Результат: generated_files/Documents/ykodlu41OCowm2.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/assets/test.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/test.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/10YYAzsc9OT_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/10YYAzsc9OT_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/3HucR5eoNmiDM_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/3HucR5eoNmiDM_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/7aSGK_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/7aSGK_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/CnhNynQ.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/CnhNynQ.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/ELLO7L5dw.rar
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/ELLO7L5dw.rar
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/FZI9boD.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/FZI9boD.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/G60Fe1c8EsEiqx_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/G60Fe1c8EsEiqx_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/GimlxguyAkfR.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/GimlxguyAkfR.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/Ig7YJ4SPrE2V_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/Ig7YJ4SPrE2V_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/IhKwx.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/IhKwx.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/J57bvDrBB_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/J57bvDrBB_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/J8rhgSxMTG.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/J8rhgSxMTG.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/P5sXVyOF.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/P5sXVyOF.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/T7uOr5t3Y.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/T7uOr5t3Y.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/Ty6bY9_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/Ty6bY9_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/TygabNT.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/TygabNT.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/U6lQAVNBWNsh.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/U6lQAVNBWNsh.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/dROghm_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/dROghm_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/dVwNSO3bM.rar
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/dVwNSO3bM.rar
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/ds6aR_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/ds6aR_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/g4uPdLn1ekrAh.rar
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/g4uPdLn1ekrAh.rar
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/kUZ2asl4hu3g_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/kUZ2asl4hu3g_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/mvE0xWs5iq0qqv_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/mvE0xWs5iq0qqv_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/pwPoNz_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/pwPoNz_20260213_144412.rar
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/rDnODx5Dy_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/rDnODx5Dy_20260213_144412.zip
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Archives/x4x0GwP8.rar
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Archives
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Archives/x4x0GwP8.rar
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/0MawcvsfZ4G_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/0MawcvsfZ4G_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/1XEnc_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/1XEnc_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/1tsMGwWyFW4v_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/1tsMGwWyFW4v_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/2FdmGwRYTH29X_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/2FdmGwRYTH29X_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/2fHYsPcyV3IUfc_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/2fHYsPcyV3IUfc_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/4m80JiAXCbOOn_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/4m80JiAXCbOOn_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/4wAzgBtIgZ39_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/4wAzgBtIgZ39_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/6L7j8IL_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/6L7j8IL_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/74d4Xe0_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/74d4Xe0_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/8P37rrFSH5_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/8P37rrFSH5_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/8aFxrP2F1rc_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/8aFxrP2F1rc_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/8ax9u_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/8ax9u_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/9QmTIM7_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/9QmTIM7_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/BHOH0xrLQg_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/BHOH0xrLQg_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/BHytWd_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/BHytWd_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/C30HS8WcF89aX_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/C30HS8WcF89aX_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/EQ1mod.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/EQ1mod.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/HCkQ1c8DuISo_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/HCkQ1c8DuISo_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/HZ5L4O5_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/HZ5L4O5_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/Hpg17LLDl.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/Hpg17LLDl.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/MHac0pmFK_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/MHac0pmFK_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/NFN53o.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/NFN53o.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/O8p4qRyYVJ_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/O8p4qRyYVJ_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/OCpDhIyV79wX.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/OCpDhIyV79wX.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/QORC2.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/QORC2.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/RLKIWFTKZk_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/RLKIWFTKZk_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/RnmofI0FXoI_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/RnmofI0FXoI_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/RwYTVfLuOC_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/RwYTVfLuOC_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/TMTPd_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/TMTPd_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/UbyWZjR5C_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/UbyWZjR5C_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/WOIOXVPe_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/WOIOXVPe_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/XkFzOmCOtni_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/XkFzOmCOtni_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/YpEP0Ex.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/YpEP0Ex.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/Z6RdtCkuO.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/Z6RdtCkuO.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/bHzEDnWo9VP.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/bHzEDnWo9VP.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/bTOjiA0PYofua1.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/bTOjiA0PYofua1.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/bp7Ala.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/bp7Ala.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/cjfsorpRE.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/cjfsorpRE.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/dahVqCiL_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/dahVqCiL_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/eGpObb7.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/eGpObb7.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/fwlCefamLYct_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/fwlCefamLYct_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/hHll2_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/hHll2_20260213_144412.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/hZGwVRIWx.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/hZGwVRIWx.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/iCVkOnnx4kZtx.pdf
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/iCVkOnnx4kZtx.pdf
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/ks9QkmE0.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/ks9QkmE0.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/kxKFfoysTI_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/kxKFfoysTI_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/lCZV7.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/lCZV7.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/ldtVQzebX_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/ldtVQzebX_20260213_144412.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/n727UhAvuj_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/n727UhAvuj_20260213_144412.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/oHvriGyE72YM4.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/oHvriGyE72YM4.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/oPyt7Fcsl2YG.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/oPyt7Fcsl2YG.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/qtQeOvgLBrDKC.doc
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/qtQeOvgLBrDKC.doc
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/quhtewSM.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/quhtewSM.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/syiRF8Fu3x9_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/syiRF8Fu3x9_20260213_144412.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/vzHin67HVqLpS.txt
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/vzHin67HVqLpS.txt
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Documents/ykodlu41OCowm2.docx
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Documents
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Documents/ykodlu41OCowm2.docx
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/04ImCkRD8XhA_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/04ImCkRD8XhA_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/18AVX0oAhUp_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/18AVX0oAhUp_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/1UJWFYbik_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/1UJWFYbik_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/3ekm8ep1_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/3ekm8ep1_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/4JKcYxJrM_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/4JKcYxJrM_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/61jke9263B_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/61jke9263B_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/77oih_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/77oih_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/7F0iar9ZZ0u556_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/7F0iar9ZZ0u556_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/7soZpdQg6CN4gT_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/7soZpdQg6CN4gT_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/8GML3xDzY_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/8GML3xDzY_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/9C2rTWgB_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/9C2rTWgB_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/CDpqWY_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/CDpqWY_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/DvGRDd5tUoxg_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/DvGRDd5tUoxg_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/Dz7HFAVda8_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/Dz7HFAVda8_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/EejQAncRSJ_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/EejQAncRSJ_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/GULjG_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/GULjG_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/MZN1ES057l_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/MZN1ES057l_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/Mi5DHptQOr_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/Mi5DHptQOr_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/P5Ojwn25_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/P5Ojwn25_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/Q6IGfza_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/Q6IGfza_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/Q9Vw6kwj_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/Q9Vw6kwj_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/QRhz8LDyg_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/QRhz8LDyg_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/RMA9suUmFKkDG.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/RMA9suUmFKkDG.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/UN7F528C_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/UN7F528C_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/WZrA4SySpI.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/WZrA4SySpI.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/XqXqKMjZFLBho.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/XqXqKMjZFLBho.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/ZCW2t.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/ZCW2t.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/b8O8dB22tN.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/b8O8dB22tN.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/eLrwKv1rB9ml2_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/eLrwKv1rB9ml2_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/ebL5yVq.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/ebL5yVq.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/f20qF8faePVwfG.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/f20qF8faePVwfG.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/h4kTbpUFHlHR.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/h4kTbpUFHlHR.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/hpWw8dwFn8Z.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/hpWw8dwFn8Z.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/jsspG.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/jsspG.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/lsRstTFyZqt.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/lsRstTFyZqt.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/mk5pjzJDOnFK4.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/mk5pjzJDOnFK4.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/nom1G5tc3z.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/nom1G5tc3z.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/ozAchK8YU_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/ozAchK8YU_20260213_144412.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/pS8Ws0sqS_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/pS8Ws0sqS_20260213_144412.png
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/q30uI4GZ.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/q30uI4GZ.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/rUp5PlbA_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/rUp5PlbA_20260213_144412.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/rZikbL8ucha.jpg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/rZikbL8ucha.jpg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Images/wy6ysOMW35o.jpeg
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Images
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Images/wy6ysOMW35o.jpeg
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/1F0KM8S_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/1F0KM8S_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/1NHquHIZ80U_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/1NHquHIZ80U_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/3LrWgk_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/3LrWgk_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/7D1h0gA3SbOK3_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/7D1h0gA3SbOK3_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/8G7T2SK1_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/8G7T2SK1_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/9bcukPi3ltTL_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/9bcukPi3ltTL_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/9sw1ooorBkO_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/9sw1ooorBkO_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/FEDKIo_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/FEDKIo_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/GC0flisHdwnF_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/GC0flisHdwnF_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/IOVMOwReypVI_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/IOVMOwReypVI_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/IxsDPImx2xG2_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/IxsDPImx2xG2_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/KkjcDPLY_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/KkjcDPLY_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/LLGFSUTM_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/LLGFSUTM_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/NKZzz4UN_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/NKZzz4UN_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/O5qnl7Wq_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/O5qnl7Wq_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/V4nZq.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/V4nZq.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/WHuKN5zvvC.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/WHuKN5zvvC.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/WeazSx_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/WeazSx_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/Z8KYMg2lRdrcTN_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/Z8KYMg2lRdrcTN_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/a5b922.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/a5b922.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/biBc2wSZZsWzQ_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/biBc2wSZZsWzQ_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/dzZxXBZ.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/dzZxXBZ.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/j7DFZ_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/j7DFZ_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/jeYUK2V3MJuzDI.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/jeYUK2V3MJuzDI.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/kxS23acrduy.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/kxS23acrduy.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/oNe5t2AkU.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/oNe5t2AkU.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/syZRAzbgS6L_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/syZRAzbgS6L_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/tnDtJPrdhhs_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/tnDtJPrdhhs_20260213_144412.mp3
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/uSNmx3y4FRRBp_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/uSNmx3y4FRRBp_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/vQ8JDq7_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/vQ8JDq7_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/wZczJApRikT.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/wZczJApRikT.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Music/xHLfgS_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Music
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Music/xHLfgS_20260213_144412.wav
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/2xKlkL1eUlw_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/2xKlkL1eUlw_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/36SgOFhxoc_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/36SgOFhxoc_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/44FNPZKTFkG_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/44FNPZKTFkG_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/4x6VVnnC_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/4x6VVnnC_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/6X2DlsxlwG2m_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/6X2DlsxlwG2m_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/6hMfPBW8v4h7y_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/6hMfPBW8v4h7y_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/72lYAEa61WT05P_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/72lYAEa61WT05P_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/8X7EIgE_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/8X7EIgE_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/8bVCJysS62_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/8bVCJysS62_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/96ITb_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/96ITb_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/AQQ3cYd6TJ7_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/AQQ3cYd6TJ7_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/BDQkH_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/BDQkH_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/GCOHlW_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/GCOHlW_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/IzODcGW10_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/IzODcGW10_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/J1XN2_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/J1XN2_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/Jq87jJ5m_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/Jq87jJ5m_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/Kt9HblN0WvkMv7_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/Kt9HblN0WvkMv7_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/LL8ypv5M_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/LL8ypv5M_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/LyxTWzm22_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/LyxTWzm22_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/M1i6xAlYXTT_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/M1i6xAlYXTT_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/NRECIP9_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/NRECIP9_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/Rq22QUU74_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/Rq22QUU74_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/U8Uh9kgvyX_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/U8Uh9kgvyX_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/W7MS1j78QsSGEB.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/W7MS1j78QsSGEB.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/WMCJgA_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/WMCJgA_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/c2ohMB_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/c2ohMB_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/dOPyc.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/dOPyc.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/dS5nOcvJ1o.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/dS5nOcvJ1o.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/dTkRVTQtb3HRq.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/dTkRVTQtb3HRq.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/eAvLOJCz_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/eAvLOJCz_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/faZRtTw5zz_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/faZRtTw5zz_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/kOIPL.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/kOIPL.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/kQjFM00fSg6u1.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/kQjFM00fSg6u1.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/l1yc1b_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/l1yc1b_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/o75FwFV2lki5_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/o75FwFV2lki5_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/oM1JC_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/oM1JC_20260213_144412.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/pBWLnJ.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/pBWLnJ.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/qFTQzfMPA9bp.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/qFTQzfMPA9bp.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/rrHti_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/rrHti_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/sMz4KvBzFVLxM.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/sMz4KvBzFVLxM.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/u1E2y_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/u1E2y_20260213_144412.avi
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/vbuPu.mp4
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/vbuPu.mp4
+2026/02/13 15:46:27 [SUCCESS] Исходный файл: /home/bor1ev/go/file-organizer/generated_files/Video/wN8BAdPvr.avi
+2026/02/13 15:46:27 [SUCCESS] Целевая директория: /home/bor1ev/go/file-organizer/Video
+2026/02/13 15:46:27 [SUCCESS] Результат: /home/bor1ev/go/file-organizer/Video/wN8BAdPvr.avi

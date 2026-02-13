@@ -99,8 +99,6 @@ func generateNewFileName(path string) string {
 
 func (fo *FileOrganizer) moveFile(sourcePath, targetDir string) error {
 
-	fmt.Println(targetDir)
-
 	hasTargetDir := dirExists(targetDir)
 
 	if hasTargetDir == false {
@@ -180,11 +178,14 @@ func (fo *FileOrganizer) showStats() {
 	fmt.Printf("Всего обработано файлов: %d\n", totalFiles)
 	fmt.Printf("Общий размер: %.1f MB\n", bytesToMegabytes(totalSize))
 	fmt.Println()
-	fmt.Println("Статистика по категориям:")
 
-	for _, message := range byExtensionMessages {
-		fmt.Print(message)
+	if len(byExtensionMessages) != 0 {
+		fmt.Println("Статистика по категориям:")
+		for _, message := range byExtensionMessages {
+			fmt.Print(message)
+		}
 	}
+
 }
 
 func (fo *FileOrganizer) Organize() error {
@@ -240,11 +241,13 @@ func main() {
 	dirPath := scanner.Text()
 
 	if _, err := os.Stat(dirPath); os.IsNotExist(err) {
-		fmt.Printf("❌ Ошибка: Директория '%s' не существует.\n", dirPath)
-		return
+		dirPath, err = os.Getwd()
+		if err != nil {
+			log.Fatal(err)
+		}
 	}
 
-	fmt.Printf("✅ Директория найдена: %s\n\n", dirPath)
+	fmt.Printf("✅ Директория для сортировки: %s\n\n", dirPath)
 
 	file, er := os.OpenFile("organizer.log", os.O_CREATE|os.O_RDWR|os.O_APPEND, 0666)
 
