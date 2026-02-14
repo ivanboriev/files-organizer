@@ -263,15 +263,14 @@ func main() {
 	file, er := os.OpenFile("organizer.log", os.O_CREATE|os.O_RDWR|os.O_APPEND, 0666)
 
 	if er != nil {
-		defer file.Close()
 		log.Fatal(er)
 	}
+
+	defer file.Close()
 
 	fo := NewFileOrganizer(dirPath, file)
 
 	err := fo.Organize()
-
-	defer file.Close()
 
 	if err != nil {
 		log.Fatal(err)
