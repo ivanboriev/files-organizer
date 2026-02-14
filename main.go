@@ -251,10 +251,8 @@ func main() {
 
 	} else {
 		if _, err := os.Stat(dirPath); os.IsNotExist(err) {
-			if err != nil {
-				fmt.Printf("Директория %s не найдена!", dirPath)
-				os.Exit(0)
-			}
+			fmt.Printf("Директория %s не найдена!", dirPath)
+			os.Exit(1)
 		}
 	}
 
@@ -266,14 +264,15 @@ func main() {
 		log.Fatal(er)
 	}
 
-	defer file.Close()
-
 	fo := NewFileOrganizer(dirPath, file)
 
 	err := fo.Organize()
 
 	if err != nil {
+		defer file.Close()
 		log.Fatal(err)
 	}
+
+	defer file.Close()
 
 }
