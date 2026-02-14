@@ -269,6 +269,7 @@ func main() {
 	err := fo.Organize()
 
 	if err != nil {
+
 		defer file.Close()
 		log.Fatal(err)
 	}
