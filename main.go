@@ -68,9 +68,10 @@ func (fo *FileOrganizer) logError(message string) {
 func dirExists(path string) bool {
 	info, err := os.Stat(path)
 
-	if os.IsNotExist(err) {
+	if err != nil {
 		return false
 	}
+
 	return info.IsDir()
 }
 
